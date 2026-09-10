@@ -1,5 +1,5 @@
 #!name=Apple WLOC 定位修改
-#!desc=修改 Apple 网络定位返回坐标(经纬度+精度+海拔) (Shadowrocket 小火箭) | 选点页面: 请使用自建 wloc-geo Worker
+#!desc=修改 Apple 网络定位返回坐标(经纬度+精度+海拔) (Shadowrocket ) | 选点页面: 请使用自建 wloc-geo Worker
 #!author=Yu9191 Rewrite
 #!homepage=https://github.com/yyyacc/wloc-geo
 #!icon=https://raw.githubusercontent.com/yyyacc/wloc-geo/refs/heads/main/wloc.jpg
